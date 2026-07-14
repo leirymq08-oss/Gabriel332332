@@ -1,0 +1,15 @@
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/TetrisSimple.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/TetrisSimple.AssemblyInfoInputs.cache
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/TetrisSimple.AssemblyInfo.cs
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/TetrisSimple.csproj.CoreCompileInputs.cache
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/TetrisSimple.sourcelink.json
+/workspaces/Gabriel332332/TetrisSimple/bin/Debug/net8.0-windows/TetrisSimple
+/workspaces/Gabriel332332/TetrisSimple/bin/Debug/net8.0-windows/TetrisSimple.deps.json
+/workspaces/Gabriel332332/TetrisSimple/bin/Debug/net8.0-windows/TetrisSimple.runtimeconfig.json
+/workspaces/Gabriel332332/TetrisSimple/bin/Debug/net8.0-windows/TetrisSimple.dll
+/workspaces/Gabriel332332/TetrisSimple/bin/Debug/net8.0-windows/TetrisSimple.pdb
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/TetrisSimple.dll
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/refint/TetrisSimple.dll
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/TetrisSimple.pdb
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/TetrisSimple.genruntimeconfig.cache
+/workspaces/Gabriel332332/TetrisSimple/obj/Debug/net8.0-windows/ref/TetrisSimple.dll
